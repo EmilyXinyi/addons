@@ -1,2 +1,3 @@
-# add chart specific values
 external-secrets: {}
+image:
+  tag: 1
